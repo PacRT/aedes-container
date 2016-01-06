@@ -1,5 +1,5 @@
 # 1. Introduction
-Assumes you have a local system with docker running on it. Check wiki for more details.
+Assumes you have a local system with docker running on it. Check the [wiki](https://github.com/PacRT/GeneralDocsAndLinks) for more details.
 
 The Dockerfile will build on ready made container based on Ubuntu 14.04 and node 4.2.4 from Dockerhub. Only Aedes specific entries are added to extend the ready made container.
 
