@@ -1,10 +1,9 @@
-# Introduction
-# Introduction
+# 1. Introduction
 Assumes you have a local system with docker running on it. Check wiki for more details.
 
 The Dockerfile will build on ready made container based on Ubuntu 14.04 and node 4.2.4 from Dockerhub. Only Aedes specific entries are added to extend the ready made container.
 
-# To run the aedes embedded server in a container
+# 2. To run the aedes broker embedded in an app in a container
 
 Create a directory in your local system.
 
